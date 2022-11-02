@@ -1,0 +1,1 @@
+pg.transform.scale(BG, (1200,800))
